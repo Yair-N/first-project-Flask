@@ -11,7 +11,7 @@ Creating a web application using `flask` and `sqlite3` database .
 The application will simulate Loans management in a book Library.  
 
 
-[Source code on my github](https://github.com/YairNotkovich/FirstProject.git)  
+[Source code on my github](https://github.com/Yair-N/first-project-Flask.git)  
 
 [Deployed on Heroku](https://mypylibrary.herokuapp.com/) MIGHT TAKE A MINUTE TO LOAD  
 heroku rests internal databases every hour or so
